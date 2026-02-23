@@ -59,3 +59,7 @@ Ranking / tie-break
 Apply best rule to test input
         ↓
 Error analysis → update DSL/representation
+
+## Links
+- Medium article: https://medium.com/@ddbrao11/beyond-pattern-matching-a-research-exploration-on-arc-style-reasoning-c2bc37943b87
+- Methodology notes: docs/methodology.md
