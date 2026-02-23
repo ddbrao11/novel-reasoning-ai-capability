@@ -24,7 +24,7 @@ Unlike standard ML tasks (classification/regression), ARC is closer to **program
 
 ## Research Questions
 - What representations (object-centric / graph / symmetry features) make rule discovery easier than raw pixels?
-- What minimal set of atomic transformations (a small DSL/toolbox) covers many tasks without exploding the search space?
+- What minimal set of atomic transformations (a small Domain-Specific Language (DSL)/toolbox) covers many tasks without exploding the search space?
 - How do we handle ambiguity when multiple rules fit training examples but diverge on the test input?
 - Which failure modes repeat most (counting, topology, multi-step rules), and what do they suggest?
 
